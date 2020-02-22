@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Pregnancy Fetal Movement Record
 
-You can use the [editor on GitHub](https://github.com/jichungan9498/PregnancyFetalMovementRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fetal movement during pregnancy is a very wonderful and interesting thing, and mothers can feel the movement of the baby in the belly. For example, the baby is kicking in the mother's belly, and at the same time the baby can feel the touch of the mothers. This is a very happy and memorable thing for parents who desire to become moms and dads. You can record the frequency, feelings and time of your baby's fetus during pregnancy to share your joy with your family.
 
-### Markdown
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will answer them for you in the first time.
 
-```markdown
-Syntax highlighted code block
+### Address: jichungan9498@163.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jichungan9498/PregnancyFetalMovementRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
